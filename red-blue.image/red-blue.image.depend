@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708167506 source:c:\c folder\red-blue.image\main.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
